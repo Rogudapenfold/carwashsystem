@@ -1,0 +1,6 @@
+ 
+
+•Database: MySQL
+•Frontend: Angular
+•Backend: Java Spring boot
+•Payment Systems: Stripe 
